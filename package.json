@@ -1,0 +1,20 @@
+{
+  "name": "telegram-nodejs-ai-bot",
+  "version": "1.0.0",
+  "description": "Nodejs AI Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "ai",
+    "telegram"
+  ],
+  "author": "Abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "openai": "^3.1.0"
+  }
+}
